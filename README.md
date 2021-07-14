@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=armanbijoy&&show_icons=true&title_color=#161616&icon_color=bb2acf&text_color=daf7dc&bg_color=#FFFEFE"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=armanbijoy&currStreakNum=2FD3EB&fire=pink&sideLabels=F00)](https://git.io/streak-stats">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armanbijoy&theme=white&hide_langs_below=1">
 
 
 
